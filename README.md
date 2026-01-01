@@ -49,7 +49,7 @@ This application is a simple cinema ticket booking system:
    python main.py
    ```
 
-After a successful purchase, a `ticket.pdf` file will be generated.
+3. After a successful purchase of cinema ticket, a `ticket.pdf` file will be generated.
 
 ---
 
